@@ -22,8 +22,8 @@ public class UserInfoUsingLembda {
 
         UserInfoUsingLembda userInfoUsingLembda = new UserInfoUsingLembda();
 
-        System.out.println("First name is "+userInfoUsingLembda.firstName.isFirstName("Akash"));
-        System.out.println("Last name is "+userInfoUsingLembda.lastName.isLastName("Das"));
+        System.out.println("First name is "+userInfoUsingLembda.firstName.isFirstName("Yash"));
+        System.out.println("Last name is "+userInfoUsingLembda.lastName.isLastName("Gharde"));
 
     }
 }
